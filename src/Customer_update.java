@@ -24,6 +24,8 @@ public class Customer_update extends javax.swing.JInternalFrame {
     Connection con=null;
     ResultSet rs=null;
     ResultSet rs1=null;
+    //mobile shop management system
+    
     PreparedStatement ps=null;
     String date="";
     public Customer_update() {
